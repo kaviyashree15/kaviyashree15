@@ -17,7 +17,7 @@
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/kaviya-shree-337182328/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=kaviyashree15&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
@@ -29,7 +29,7 @@
 <!-- ===================== DIVIDER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:EC4899&height=3&width=100%"/>
 
-## 🚀 About Me
+## :rocket: About Me
 
 ```yaml
 name: Kaviya Shree
@@ -49,7 +49,7 @@ fun_fact: "I debug with print statements before I admit I need a real debugger �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:6366F1&height=3&width=100%"/>
 
-## 🛠️ Tech Stack
+## :hammer_and_wrench: Tech Stack
 
 <div align="center">
 
@@ -71,7 +71,7 @@ fun_fact: "I debug with print statements before I admit I need a real debugger �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:EC4899&height=3&width=100%"/>
 
-## 📊 GitHub Stats
+## :bar_chart: GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaviyashree15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9" />
@@ -88,7 +88,7 @@ fun_fact: "I debug with print statements before I admit I need a real debugger �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:6366F1&height=3&width=100%"/>
 
-## 📌 Pinned Projects
+## :pushpin: Pinned Projects
 
 <div align="center">
 
@@ -108,26 +108,22 @@ fun_fact: "I debug with print statements before I admit I need a real debugger �
 
 </div>
 
-> ✏️ *Add a one-line description + tech-stack badges to each repo's own README for extra recruiter polish.*
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:EC4899&height=3&width=100%"/>
 
-## 🐍 Contribution Snake
+## :snake: Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/kaviyashree15/kaviyashree15/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<sub>⚙️ This animates automatically once the included GitHub Action workflow runs — see setup instructions below.</sub>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:6366F1&height=3&width=100%"/>
 
-## 🤝 Let's Connect
+## :handshake: Let's Connect
 
 <div align="center">
 
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-EC4899?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kaviya-shree-337182328/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/kaviyashree15"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
@@ -135,4 +131,3 @@ fun_fact: "I debug with print statements before I admit I need a real debugger �
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=100&section=footer"/>
 </div>
-
