@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- ===================== GRADIENT HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Hi%20There,%20I'm%20Kaviya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20%26%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://git.io/typing-svg">
