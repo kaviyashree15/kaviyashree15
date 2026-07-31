@@ -74,39 +74,23 @@ fun_fact: "I debug with print statements before I admit I need a real debugger �
 ## :bar_chart: GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaviyashree15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kaviyashree15&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaviyashree15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" />
-</div>
+<img src="https://img.shields.io/github/followers/kaviyashree15?style=for-the-badge&color=8B5CF6&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&color=EC4899&labelColor=0D1117&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkaviyashree15" />
+<img src="https://img.shields.io/github/stars/kaviyashree15?style=for-the-badge&color=6366F1&labelColor=0D1117" />
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaviyashree15&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=ffffff" width="100%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:6366F1&height=3&width=100%"/>
 
 ## :pushpin: Pinned Projects
 
-<div align="center">
-
-<a href="https://github.com/kaviyashree15/kavya">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaviyashree15&repo=kavya&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
-</a>
-<a href="https://github.com/kaviyashree15/inamigos-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaviyashree15&repo=inamigos-website&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
-</a>
-<br/>
-<a href="https://github.com/kaviyashree15/taskmanager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaviyashree15&repo=taskmanager&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
-</a>
-<a href="https://github.com/kaviyashree15/mindhaven">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaviyashree15&repo=mindhaven&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
-</a>
-
-</div>
+| Project | Stack | Repo |
+|---|---|---|
+| **kavya** | ![](https://img.shields.io/github/languages/top/kaviyashree15/kavya?style=flat-square&color=8B5CF6&labelColor=0D1117) | [View →](https://github.com/kaviyashree15/kavya) |
+| **inamigos-website** | ![](https://img.shields.io/github/languages/top/kaviyashree15/inamigos-website?style=flat-square&color=EC4899&labelColor=0D1117) | [View →](https://github.com/kaviyashree15/inamigos-website) |
+| **taskmanager** | ![](https://img.shields.io/github/languages/top/kaviyashree15/taskmanager?style=flat-square&color=6366F1&labelColor=0D1117) | [View →](https://github.com/kaviyashree15/taskmanager) |
+| **mindhaven** | ![](https://img.shields.io/github/languages/top/kaviyashree15/mindhaven?style=flat-square&color=8B5CF6&labelColor=0D1117) | [View →](https://github.com/kaviyashree15/mindhaven) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:EC4899&height=3&width=100%"/>
 
