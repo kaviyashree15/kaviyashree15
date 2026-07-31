@@ -26,8 +26,6 @@
 
 <br/>
 
-<!-- ===================== DIVIDER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:EC4899&height=3&width=100%"/>
 
 ## :rocket: About Me
 
